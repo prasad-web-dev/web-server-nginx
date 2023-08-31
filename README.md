@@ -1,5 +1,6 @@
 # web-server-nginx
 
+```
 Working with nginx configuration
     01. nginx install scrripts.
             -
@@ -10,3 +11,4 @@ Working with nginx configuration
             - wordpress websites.
     04. handling logs size.
             - use logroation handle logs size.
+```
